@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 #import matplotlib as plt
 
-file = r'C:\Users\HP\Desktop\Karachi AI\Karachi AI (office PC)\Class\2nd day\Data Manipulation and Summary Analytics\Billionaire.csv'
+file = r'C:\Users\HP\Desktop\Karachi AI 2\Class\Class 1 (python)\2nd day\Data Manipulation Python - Pandas\Data Manipulation and Summary Analytics\Billionaire.csv'
 
 st.header('Billionaires datasets')
 
